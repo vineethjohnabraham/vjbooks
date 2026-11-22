@@ -5,6 +5,7 @@ A one-page bookshop for VJ's books. Visitors add books to a cart and the checkou
 ## Edit books, prices or WhatsApp number
 Open `index.html` and edit the `SHOP` and `BOOKS` blocks near the top of the `<script>` (look for "EDIT HERE").
 `price` is the direct price (used in the cart and WhatsApp order); `amazonPrice` is shown next to the Buy on Amazon button.
+The bundle price is `BUNDLE.price` just below the book list.
 
 ## Publish on GitHub Pages
 1. Repo: https://github.com/vineethjohnabraham/vjbooks
